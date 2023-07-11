@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Swapnil
-- 👀 I’m Intersted in Data science and Web development
+- 👀 I’m Intersted in Web development and data
 - 🌱 I’m an avid self-learner
 - 💞️ Please drop me a message if you have any suggestions for my projects
 - 📫 You can also reach me through my <a href="https://www.linkedin.com/in/chauhan-swapnil/"> LinkedIn <a>
